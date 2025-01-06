@@ -16,3 +16,5 @@ void main() {
 // list.first yah phela variable la degah .
 // list.last yah bhi last variable la degah .
 // list.length jatni list ki lenght hogi yah sari print kar de gah jese is list ki lenght [1 2 3 4 5] hai tu yah 5 print kar gah .  
+// list.elementAt(index) is method ma index se kaam hota hai index hamara 0 se full lenght tak jata hai jese ma () breakt ma 1 deta hun
+// tu yah 2 print kar de gah or 0 deta hun tu yah 1 print kar de gah 

@@ -3,9 +3,11 @@ void main() {
   var abc = vals.reversed;
   print(abc);
  
-  var val = ['ali', 'kamran','zain' , 'noman', 4, 5, 9];
-  var reversed = (val.reversed);
+  var val = ['ali', 'kamran','zain','noman', 4, 5, 9];
+  var reversed = List.of(val.reversed);
   print(reversed);
   }
  //Reversed List will be:
  //[9, 5, 4, 2, 1, 4, 8]
+//revarsed List will be:
+// ['ali', 'kamran','zain','noman', 4, 5, 9]; 
